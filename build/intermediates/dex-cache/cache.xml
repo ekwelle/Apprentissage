@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_d8942a72b3a8b0fb559048ebd1ea99f6c11230b1/classes.dex" />
+    </item>
+    <item
+        jar="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_b34eed30bef86470feaeca29e3b6007880294f1f/classes.dex" />
+    </item>
+    <item
+        jar="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9d799d7de7f8084e0223b2d6dcb0bb58dd19f2cd">
+        <dex dex="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_01945abc1575b89795e81d1fde302b49b5effdca/classes.dex" />
+    </item>
+    <item
+        jar="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_d2f8fe738d30fb1c6e9ccedaad009043c175fbe2/classes.dex" />
+    </item>
+    <item
+        jar="/home/morel/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_18edac1b925bdce0889e3b178f882abdeb7d5c7a/classes.dex" />
+    </item>
+    <item
+        jar="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="bc7e63ba57ff401237458939fb858a9c02598c1a">
+        <dex dex="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fc48948d8252d11c56e0d08d223b1a386a2747cc/classes.dex" />
+    </item>
+    <item
+        jar="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_938fdfccfa1b26d43c6b441ebc925e11b01db39c/classes.dex" />
+    </item>
+    <item
+        jar="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/morel/AndroidStudioProjects/Apprentissage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_25c844ece27232d9e10659ffc41e6adf4b0f472d/classes.dex" />
+    </item>
+
+</items>
